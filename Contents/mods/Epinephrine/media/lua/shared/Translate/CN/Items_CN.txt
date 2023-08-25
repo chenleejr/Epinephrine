@@ -1,0 +1,4 @@
+Items_CN = {
+    DisplayName_KCEpinephrine = "肾上腺素",
+    DisplayName_EmptyKCEpinephrine = "空的肾上腺素针管",
+}

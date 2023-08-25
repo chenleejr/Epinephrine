@@ -1,0 +1,7 @@
+IGUI_EN = {
+    IGUI_lets_fight_after_KCEpinephrine_injection = "Come on zombies! Let's fight!",
+    IGUI_the_KCEpinephrine_effect_stops = "The epinephrine effect stopped",
+    IGUI_the_KCEpinephrine_effect_stops_with_side_effect = "The epinephrine effect stopped and the wound on the body worsened",
+    IGUI_ignored_by_KCEpinephrine = "(ignored by epinephrine)",
+    IGUI_inject_KCEpinephrine_in_not_working_time = "It's too soon since the last injection, won't take effect",
+}

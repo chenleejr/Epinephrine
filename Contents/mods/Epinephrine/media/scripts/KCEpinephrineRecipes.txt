@@ -1,0 +1,17 @@
+module KCEpinephrineRecipes {
+    imports {
+		Base
+	}
+
+	recipe InjectKCEpinephrine {
+    	KCEpinephrine,
+    	Time:60.0,
+    	Category:Health,
+    	CanBeDoneFromFloor:False,
+    	NeedToBeLearn:False,
+    	StopOnWalk:false,
+    	Result:EmptyKCEpinephrine,
+    	OnCreate:KCEpinephrine.Inject,
+        OnGiveXP:KCEpinephrine.OnGiveXP.Doctor2,
+    }
+}

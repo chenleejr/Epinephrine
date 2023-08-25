@@ -1,0 +1,4 @@
+Tooltip_CN = {
+    Tooltip_KCEpinephrine = "短时间内无视受伤带来的负面效果",
+    Tooltip_EmptyKCEpinephrine = "无法再次使用",
+}

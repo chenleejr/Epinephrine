@@ -1,0 +1,3 @@
+Recipes_CN = {
+    Recipe_InjectKCEpinephrine = "注射肾上腺素",
+}

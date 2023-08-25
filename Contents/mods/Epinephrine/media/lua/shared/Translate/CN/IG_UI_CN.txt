@@ -1,0 +1,7 @@
+IGUI_CN = {
+    IGUI_lets_fight_after_KCEpinephrine_injection = "让你们尝尝我的厉害！",
+    IGUI_the_KCEpinephrine_effect_stops = "肾上腺素效果停止了",
+    IGUI_the_KCEpinephrine_effect_stops_with_side_effect = "肾上腺素效果停止了，身上的伤口恶化了",
+    IGUI_ignored_by_KCEpinephrine = "(被肾上腺素忽略)",
+    IGUI_inject_KCEpinephrine_in_not_working_time = "距离上次注射时间太短了，不会产生效果",
+}

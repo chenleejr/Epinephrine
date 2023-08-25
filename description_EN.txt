@@ -1,0 +1,43 @@
+Epinephrine
+
+[h1]What is this[/h1]
+This mod provides an item called Epinephrine, which can be found in medical related locations. After injection, the negative effects of injuries can be ignored for a short time.
+
+When we encounter a wave of zombies and prepare to have a great fight, is it always because of a scratch or laceration caused by a zombie attack accidentally, causing the attack speed to become very slow and enter a vicious circle, or the too long entanglement time lead to lack of endurance and eventually dies? Try the Epinephrine!
+
+[h1]Support mode[/h1]
+[list]
+     [*] Passed the test in 41.78 singleplayer mode.
+     [*] Passed the test in 41.78 multiplayer mode.
+[/list]
+
+[h1]Compatibility[/h1]
+[list]
+     [*]Because Epinephrine is a new item, theoretically it will not conflict with other mod items.
+     [*]But because I rewrote the code of the health panel to show whether the Epinephrine is in effect, it may conflict with other mods that modify the health panel.
+[/list]
+
+[h1]How to get[/h1]
+The current version can only be found in medical-related containers, and the manufacturing method will be updated later.
+
+[h1]Update[/h1]
+[list]
+     [*]version 0.03 was updated on August 25th.
+     [list]
+        [*]Multiple injections of Epinephrine in a short period of time have no effect.
+        [*]More side effects for realism, including panic, fear, hunger and thirst, wetness, and slight weight loss after the Epinephrine effect ends.
+     [/list]
+     [*]version 0.02 was updated on August 13th.
+     [list]
+        [*]Ignoring attack speed reduction caused by bite.
+        [*]Side effects after Epinephrine effect ends, including decreasing endurance, increasing fatigue, and making wounds worse.
+     [/list]
+     [*]version 0.01 was released on August 12th.
+     [list]
+        [*]Ignoring the reduction in attack speed caused by scratches, lacerations, burns, and deep wounds;
+        [*]Increasing endurance and decreasing fatigue after Epinephrine takes effect.
+     [/list]
+[/list]
+
+Workshop ID: 3018712163
+Mod ID: KCEpinephrine

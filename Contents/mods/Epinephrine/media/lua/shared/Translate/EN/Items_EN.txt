@@ -1,0 +1,4 @@
+Items_EN = {
+    DisplayName_KCEpinephrine = "Epinephrine",
+    DisplayName_EmptyKCEpinephrine = "Empty Epinephrine",
+}

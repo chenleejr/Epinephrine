@@ -1,0 +1,4 @@
+Tooltip_EN = {
+    Tooltip_KCEpinephrine = "Ignore the negative effects of injuries in a short period of time",
+    Tooltip_EmptyKCEpinephrine = "Cannot be used again",
+}

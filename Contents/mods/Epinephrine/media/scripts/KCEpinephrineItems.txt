@@ -1,0 +1,23 @@
+module KCEpinephrineItems {
+    imports {
+    	Base
+    }
+
+	item KCEpinephrine {
+		Type = Normal,
+		DisplayCategory = FirstAid,
+		Icon = KCEpinephrine,
+		Weight = 0.2,
+		DisplayName = KCEpinephrine,
+		Tooltip = Tooltip_KCEpinephrine,
+	}
+
+	item EmptyKCEpinephrine {
+		Type = Normal,
+		DisplayCategory = FirstAid,
+		Icon = EmptyKCEpinephrine,
+		Weight = 0.1,
+		DisplayName = EmptyKCEpinephrine,
+		Tooltip = Tooltip_EmptyKCEpinephrine,
+	}
+}

@@ -1,0 +1,8 @@
+version=1
+id=3018712163
+title=Epinephrine
+description=Epinephrine makes you ignore the negative effects of injuries in a short period of time.
+description=
+description=Epinephrine can be found in the world in a low chance.
+tags=Build 41;Balance;Hardmode;Items;Multiplayer;Realistic
+visibility=public
